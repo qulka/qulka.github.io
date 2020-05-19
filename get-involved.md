@@ -12,8 +12,8 @@ permalink: /get-involved/
 1. ¿Se te ocurre alguna otra cosa?
 
 <form action="https://formspree.io/xlepglyk" method="POST" align="center">
-  Nombre: <input type="text" name="name" placeholder="Tu nombre" style="width:30%">
-  e-mail: <input type="email" name="_replyto" placeholder="Tu correo electrónico" style="width:40%">
+  Nombre: <input type="text" name="name" placeholder="Tu nombre">
+  e-mail: <input type="email" name="replyto" placeholder="Tu correo electrónico">
   <textarea name="message" placeholder="Escribe aqui tu mensaje" style="width:100%; min-height:200px"> </textarea>
   <div align="right"><input type="submit" value="Enviar"></div>
 </form>
