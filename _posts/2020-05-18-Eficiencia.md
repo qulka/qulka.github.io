@@ -1,4 +1,4 @@
 ---
 layout: post
-excerpt: Pérdidas y fugas
+excerpt: Pérdidas y fugas.
 ---
