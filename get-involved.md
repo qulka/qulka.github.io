@@ -11,9 +11,15 @@ permalink: /get-involved/
 1. ¿Sabes cómo hacer para mejorar esta página y llegar a más gente? ¿Puedes traducirla profesionalmente a otros idiomas?
 1. ¿Se te ocurre alguna otra cosa?
 
-<form action="https://formspree.io/xlepglyk" method="POST" align="center">
-  Nombre: <input type="text" name="name" placeholder="Tu nombre">
-  e-mail: <input type="email" name="replyto" placeholder="Tu correo electrónico">
+<br>
+<form action="https://formspree.io/xlepglyk" method="POST" align="left">
+<fieldset>
+<!--legend>Formulario de contacto</legend-->
+  <p>
+    Nombre: <input type="text" name="name" placeholder="Tu nombre">
+    &nbsp; Correo: <input type="email" name="replyto" placeholder="Tu correo electrónico">
+  </p>
   <textarea name="message" placeholder="Escribe aqui tu mensaje" style="width:100%; min-height:200px"> </textarea>
   <div align="right"><input type="submit" value="Enviar"></div>
+</fieldset>
 </form>
