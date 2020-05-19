@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: Conceptos
 ---
 
-_Qullqa_ quiere decir _almacén_ en quechua. _Qulka_ es un nombre provisorio, para una idea en gestación que, en retrospectiva, gira en torno a la siguiente pregunta:
-
-> **¿Cómo implementar una política fiscal y monetaria descentralizada, que haga posible una economía armónicamente acoplada con el ecosistema que la sustenta?**
-
-No son pocas las preguntas que este planteamiento debe suscitar. Este es un espacio destinado a discutirlas, ojalá generando con ello la masa crítica necesaria para implementar y poner en práctica la idea central, descrita en la [Introduccion](about/).
+<p style="font:italic 22px/28px cursive; width:100vw; position:relative; left:50%; margin-left:-50vw; color:white; background:#993399; padding-top:35px; padding-bottom:35px;" align="center">
+    ¿Cómo implementar una política fiscal y monetaria
+    <br>descentralizada, que haga posible una economía
+    <br>armónicamente acoplada con el ecosistema que la sustenta?
+</p>
