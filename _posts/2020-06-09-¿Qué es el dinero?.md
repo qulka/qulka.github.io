@@ -26,9 +26,10 @@ __*fluye*__.
 1.  **Vida**. El movimiento del dinero es un espejo (imperfecto) del movimiento de la vida humana.
 De manera que dinero y vida tienen cierta relación. La vida, en efecto, también se expresa como un flujo,
 en última instancia de energía. Pero no es un flujo cualquiera: es un flujo a través de un sistema
-que tiene la capacidad de __*consumir entropía*__: consume energía de baja entropía y disipa energía de
+que tiene la capacidad de __*generar entropía*__: consume energía de baja entropía y la disipa en una forma de
 alta entropía, permitiendose así mantener su organización interna en un equilibrio dinámico. Un ser vivo es,
-no única pero sí necesariamente, un _sistema abierto_ que _genera entropía_.
+no única pero sí necesariamente, un _sistema abierto_ que puede mantener o incluso disminuir su entropía interna,
+al costo de _generar entropía_ en su entorno.
 1. **Movimiento de boomerang**. El dinero, tal como existe en nuestra organización social actual,
 pasa rápidamente por nuestras manos como una especie de préstamo, para volver eventualmente
 a su _dueño_: el inversor que ha hecho posible nuestra existencia económica. Este es el problema
