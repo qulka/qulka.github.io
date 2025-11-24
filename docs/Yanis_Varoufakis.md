@@ -1,4 +1,4 @@
-# Yanoe Varoufakis on Technofeudalism
+# Yanis Varoufakis on Technofeudalism
 
 _AI-generated_
 
