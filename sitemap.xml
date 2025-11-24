@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Antonio_Gramsci/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/David_Graeber/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Michael_Hudson/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Richard_Werner/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Steve_Keen/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Yanis_Varoufakis/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/jubilee/</loc>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+</urlset>
